@@ -50,10 +50,20 @@ To install these dependancies, activate a venv, navigate to the correct director
 
 2. Set Secret Keys
 
-I am using a Virtual Environment with Conda and set secret keys as explained in this article [securing-api-keys](https://towardsdatascience.com/securing-api-keys-with-environment-variables-using-anaconda-d30a7c48b1fd)
+Change the SECRET_KEY and SQLALCHEMY_DATABASE_URI variables to access the existing database.
 
-You need to set Secret Keys for the following
-  - 
+```
+SECRET_KEY='5791628bb0b13ce0c676dfde280ba245'
+SQLALCHEMY_DATABASE_URI='sqlite:///site.db'
+```
+
+Enter your own GMAIL account login into the EMAIL_USER, and EMAIL_PASS in order to send password reset requests to users.
+
+```
+EMAIL_USER='your_email_here@gmail.com'
+EMAIL_PASS='your_password_here'
+```
+
 
 3. Run Web App
 
