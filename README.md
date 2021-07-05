@@ -38,7 +38,7 @@ I would like to implement a Natural Language Processing Recurrent Neural Network
 
 ## Running the application
 
-1.
+1. Intall Dependancies
 
 The neccessary dependancies are stored in a requirements.txt file, which was created with the following line of code.
 
@@ -48,7 +48,14 @@ To install these dependancies, activate a venv, navigate to the correct director
 
 `pip install -r requirements.txt`
 
-2.
+2. Set Secret Keys
+
+I am using a Virtual Environment with Conda and set secret keys as explained in this article [securing-api-keys](https://towardsdatascience.com/securing-api-keys-with-environment-variables-using-anaconda-d30a7c48b1fd)
+
+You need to set Secret Keys for the following
+  - 
+
+3. Run Web App
 
 Unzip the app_workspace file, navigate to the app_workspace folder using the command line, the enter the following command.
 
