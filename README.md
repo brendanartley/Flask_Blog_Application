@@ -38,6 +38,8 @@ I would like to implement a Natural Language Processing Recurrent Neural Network
 
 ## Running the application
 
+1.
+
 The neccessary dependancies are stored in a requirements.txt file, which was created with the following line of code.
 
 `pip freeze > requirements.txt`
@@ -45,3 +47,9 @@ The neccessary dependancies are stored in a requirements.txt file, which was cre
 To install these dependancies, activate a venv, navigate to the correct directory and enter the following in the command line.
 
 `pip install -r requirements.txt`
+
+2.
+
+Unzip the app_workspace file, navigate to the app_workspace folder using the command line, the enter the following command.
+
+`python run.py`
