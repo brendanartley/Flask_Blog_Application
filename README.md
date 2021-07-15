@@ -1,4 +1,5 @@
 # Flask_Blog_Application
+![Blog Image](https://github.com/brendanartley/Flask_Blog_Application/blob/main/ScreenShot.png)
 
 Thanks to [Corey Schafer's Flask Tutorials Series](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH), I was able to learn how to create a fully functional web application from scratch using Flask.
 
