@@ -1,6 +1,6 @@
 # Flask_Blog_Application
 
-Thanks to [Corey Schafer's Flask Turotials Series](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH), I was able to learn how to create a fully functional web application from scratch using Flask.
+Thanks to [Corey Schafer's Flask Tutorials Series](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH), I was able to learn how to create a fully functional web application from scratch using Flask.
 
 The application is built to function as a Blog. User and Post data are stored in an SQL database. Users can update and delete their own posts, change their profile pictures, reset their password via email-authetication and more. Throughout development, the project transitioned from a few simple python scripts to an application with a full-package structure.
 
